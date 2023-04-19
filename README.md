@@ -3,9 +3,9 @@
 
 ```JSX
 function Greeting(props) {
-    return React.createElement('h1', {id: 'greeting', className: 'hello'}, 'Hello, ${props.name}!');
+    return React.createElement('h1', {id: 'greeting', className: 'hello'}, 'Welcome, ${props.name}!');
 }
-let helloElement = React.createElement(Greeting, {name: 'Erick'});
+let helloElement = React.createElement(Greeting, {name: 'visitor'});
 ```
 
 As Senior Project Manager I'm responsible for the execution of my client projects from acceptance to launch of the IT project (website, software, digital transformation, CRM, digital marketing) and my digital reports following the internal guidelines and project methodologies (Waterfall, Hybrid and Agile). I'm in charge in delivering according to agreed project specifications, budget, timeline and stakeholder management.
