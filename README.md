@@ -12,8 +12,8 @@ As Senior Project Manager I'm responsible for the execution of my client project
 
 Over the years, working and supervising numerous projects developed in Italy and abroad (Spain, France, Switzerland, Russia), I have acquired skills that allow me to work easily with the main CMS and E-commerce environments: Wordpress, Drupal , Prestashop, Magento, Shopify, Salesforce, xCart, BigCommerce, CommerceTools and Hybris. As well as manage, partially or completely, projects developed in PHP, Java, #C and lately in MERN stack (MongoDB, Express, React and Node).
 
-Other skills? Docker, Podman, SaaS, AWS, CI/CD pipelines, Jira Management, Linux, ELI5 documentation, Git, VS Code, etc.
+Other skills? Docker, Podman, SaaS, AWS, CI/CD pipelines, Jira Management, Linux, ELI5 documentation, :octocat:Git, VS Code, etc.
 
 Since 2021 I have been a member of the Project Management Institute (PMI), where I study and improve on new Project Management techniques & methods.
 
-I speak Italian, Spanish, English and Russian. My favorite sports are soccer, boxing, ice hockey and :chess_pawn: chess.
+I speak Italian, Spanish, English and Russian. My favorite sports are :soccer:soccer, :boxing_glove:boxing, :chess_pawn:ice hockey and :chess_pawn:chess.
