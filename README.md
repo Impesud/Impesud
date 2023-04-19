@@ -3,7 +3,7 @@
 
 ```JSX
 function Greeting(props) {
-    return React.createElement('h1', {id: 'greeting', className: 'hello'}, `Hello, ${props.name}!`);
+    return React.createElement('h1', {id: 'greeting', className: 'hello'}, 'Hello, ${props.name}!');
 }
 let helloElement = React.createElement(Greeting, {name: 'Erick'});
 ```
