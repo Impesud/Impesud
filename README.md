@@ -16,4 +16,4 @@ Other skills? Docker, Podman, SaaS, AWS, CI/CD pipelines, Jira Management, Linux
 
 Since 2021 I have been a member of the Project Management Institute (PMI), where I study and improve on new Project Management techniques & methods.
 
-I speak Italian, Spanish, English and Russian. My favorite sports are :soccer:soccer, :boxing_glove:boxing, :chess_pawn:ice hockey and :chess_pawn:chess.
+I speak Italian, Spanish, English and Russian. My favorite sports are :soccer:soccer, :boxing_glove:boxing, 🏒:ice hockey and :chess_pawn:chess.
