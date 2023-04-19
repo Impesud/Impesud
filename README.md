@@ -1,4 +1,4 @@
-Senior Project Manager | E-commerce Project Manager | Senior Programmer
+<h2>Senior Project Manager | E-commerce Project Manager | Senior Programmer</h2> 
 "La pratica senza la teoria è cieca, come cieca è la teoria senza la pratica." - "Theory without practice is empty and practice without theory is blind". Protagora
 
 As Senior Project Manager I'm responsible for the execution of my client projects from acceptance to launch of the IT project (website, software, digital transformation, CRM, digital marketing) and my digital reports following the internal guidelines and project methodologies (Waterfall, Hybrid and Agile). I'm in charge in delivering according to agreed project specifications, budget, timeline and stakeholder management.
