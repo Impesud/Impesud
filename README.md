@@ -1,4 +1,4 @@
-<h2>Senior Project Manager | E-commerce Project Manager | Senior Programmer</h2> 
+<h2>Senior IT | E-commerce | Development Project Manager</h2> 
 "La pratica senza la teoria è cieca, come cieca è la teoria senza la pratica." - "Theory without practice is empty and practice without theory is blind". Protagora
 
 ```JSX
