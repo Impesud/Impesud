@@ -8,9 +8,9 @@ function Greeting(props) {
 let helloElement = React.createElement(Greeting, {name: 'visitor'});
 ```
 
-As Senior Project Manager I'm responsible for the execution of my client projects from acceptance to launch of the IT project (website, software, digital transformation, CRM, digital marketing) and my digital reports following the internal guidelines and project methodologies (Waterfall, Hybrid and Agile). I'm in charge in delivering according to agreed project specifications, budget, timeline and stakeholder management.
+As Senior Project Manager I'm responsible for the execution of my client projects from acceptance to launch of the IT project (website, ecommerce, software, digital transformation, CRM, digital marketing) and my digital reports following the internal guidelines and project methodologies (Waterfall, Hybrid and Agile). I'm in charge in delivering according to agreed project specifications, budget, timeline and stakeholder management.
 
-Over the years, working and supervising numerous projects developed in Italy and abroad (Spain, France, Switzerland, Russia), I have acquired skills that allow me to work easily with the main CMS and E-commerce environments: Wordpress, Drupal , Prestashop, Magento, Shopify, Salesforce, xCart, BigCommerce, CommerceTools and Hybris. As well as manage, partially or completely, projects developed in PHP, Java, #C and lately in MERN stack (MongoDB, Express, React and Node).
+Over the years, working and supervising numerous projects developed in Italy and abroad (Spain, France, Switzerland, Russia), I have acquired skills that allow me to work easily with the main CMS and E-commerce environments: Wordpress, Drupal , Prestashop, Magento, Shopify, Salesforce, xCart, BigCommerce, CommerceTools and Hybris. As well as manage, partially or completely, projects developed in PHP, Java, #C and lately in MERN (MongoDB, Express, React and Node.js) and MEAN (MongoDB, Express, Angular and Node.js).
 
 Other skills? Docker, Podman, SaaS, AWS, CI/CD pipelines, Jira Management, Linux, ELI5 documentation, :octocat:Git, VS Code, etc.
 
