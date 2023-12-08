@@ -10,9 +10,10 @@ let helloElement = React.createElement(Greeting, {name: 'visitor'});
 
 As Senior Project Manager I'm responsible for the execution of my client projects from acceptance to launch of the IT project (website, ecommerce, software, digital transformation, CRM, digital marketing) and my digital reports following the internal guidelines and project methodologies (Waterfall, Hybrid and Agile). I'm in charge in delivering according to agreed project specifications, budget, timeline and stakeholder management.
 
-Over the years, working and supervising numerous projects developed in Italy and abroad (Spain, France, Switzerland, Russia), I have acquired skills that allow me to work easily with the main CMS and E-commerce environments: Wordpress, Drupal , Prestashop, Magento, Shopify, Salesforce, xCart, BigCommerce, CommerceTools and Hybris. As well as manage, partially or completely, projects developed in PHP, Java, #C and lately in MERN (MongoDB, Express, React and Node), MEAN (MongoDB, Express, Angular and Node) and React Native.
+Over the years, working and supervising numerous projects developed in Italy and abroad (Spain, France, Switzerland, Russia), I have acquired skills that allow me to work easily with the main CMS and E-commerce environments: Wordpress, Drupal , Prestashop, Magento, Shopify, Salesforce, xCart, BigCommerce, CommerceTools and Hybris, ass well as manage, partially or completely, projects developed in PHP, Java, MERN (MongoDB, Express, React and Node) and React Native.
 
-Other skills? Docker, Podman, SaaS, AWS, Google Cloud, CI/CD pipelines, Atlassian software management, Linux, WSL, ELI5 documentation, Git, NextJS, TypeScript, VS Code, Python, AI, etc.
+Other expert skills: Docker, Amazon(AWS), Google(GCP), CI/CD pipelines, Atlassian software management, Linux, WSL, ELI5 documentation, Git, NextJS, TypeScript, VS Code.
+AI skills: Python, R, TensorFlow, Scikit-learn, Machine Learning, Deep Learning, Generative AI, Feature Engineering, Google Colab, AWS SageMaker, Google Vertex AI, Weka.
 
 Since 2021 I have been a member of the Project Management Institute (PMI), where I study and improve on new Project Management techniques & methods.
 
