@@ -2,10 +2,15 @@
 "La pratica senza la teoria è cieca, come cieca è la teoria senza la pratica." - "Theory without practice is empty and practice without theory is blind". Protagora
 
 ```JSX
-function Greeting(props) {
-    return React.createElement('h1', {id: 'greeting', className: 'hello'}, 'Welcome, ${props.name}!');
+@Path("/hello-world")
+public class HelloResource {
+
+    @GET
+    public String pint() {
+        return "Hello, World!";
+    }
+
 }
-let helloElement = React.createElement(Greeting, {name: 'visitor'});
 ```
 
 As Senior Project Manager I'm responsible for the execution of my client projects from acceptance to launch of the IT project (website, ecommerce, software, digital transformation, CRM, digital marketing) and my digital reports following the internal guidelines and project methodologies (Waterfall, Hybrid and Agile). I'm in charge in delivering according to agreed project specifications, budget, timeline and stakeholder management.
