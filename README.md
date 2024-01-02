@@ -17,7 +17,7 @@ As Senior Project Manager I'm responsible for the execution of my client project
 
 Over the years, working and supervising numerous projects developed in Italy and abroad (Spain, France, Switzerland, Russia), I have acquired skills that allow me to work easily with the main CMS and E-commerce environments: Wordpress, Drupal , Prestashop, Magento, Shopify, Salesforce, xCart, BigCommerce, CommerceTools and Hybris, ass well as manage, partially or completely, projects developed in PHP, Java, MERN (MongoDB, Express, React and Node) and React Native.
 
-Other expert skills: Docker, Amazon(AWS), Google(GCP), CI/CD pipelines, Atlassian software management, Linux, WSL, ELI5 documentation, Git, NextJS, TypeScript, VS Code.
+Other expert skills: Jakarta EE, Docker, Amazon(AWS), Google(GCP), CI/CD pipelines, Atlassian software management, Linux, WSL, ELI5 documentation, Git, NextJS, TypeScript, VS Code.
 AI skills: Python, R, TensorFlow, Scikit-learn, Machine Learning, Deep Learning, Generative AI, Feature Engineering, Google Colab, AWS SageMaker, Google Vertex AI, Weka.
 
 Since 2021 I have been a member of the Project Management Institute (PMI), where I study and improve on new Project Management techniques & methods.
