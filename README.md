@@ -6,7 +6,7 @@
 public class HelloResource {
 
     @GET
-    public String pint() {
+    public String print() {
         return "Hello, World!";
     }
 
