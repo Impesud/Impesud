@@ -1,25 +1,9 @@
-<h2>Senior IT | E-commerce | Technology Project Manager</h2> 
-"La pratica senza la teoria è cieca, come cieca è la teoria senza la pratica." - "Theory without practice is empty and practice without theory is blind". Protagora
+CTO & Senior Technical Instructor with over ten years of experience delivering enterprise IT projects and more than three years in technical training. Since 2015 I have led initiatives spanning ITSM, ITOM, web & e-commerce, CRM/ERP, API integration, cybersecurity, digital transformation and RPA + AI across Waterfall, hybrid and Agile frameworks in Italy, Spain, France, Switzerland and Russia. As a PMI member since 2021, I apply modern project management techniques to high-tech and AI-driven environments.
 
-```JSX
-@Path("/hello-world")
-public class HelloResource {
+Since 2022 I design and deliver courses on Microsoft 365, ServiceNow, Oracle, Machine Learning, AI, GPT and CTO & Project Management Fundamentals. I’m currently preparing for CPMAI v7 (Certified Project Management & AI Practitioner). My key certifications and badgets include AI (PMI & Google), Machine Learning (freeCodeCamp & Google) and AI & Data Analysis (Microsoft).
 
-    @GET
-    public String print() {
-        return "Hello, World!";
-    }
+My AI & technical skill set spans data science & machine learning (preprocessing, feature engineering, supervised & unsupervised models), NLP & generative AI (chatbots, recommendation engines, content generation) and platforms such as Python (scikit-learn, TensorFlow, PyTorch), Azure AI, AWS SageMaker and the OpenAI API.
 
-}
-```
+I’m fluent in Italian (C2) and Spanish (C2), proficient in English (B2) and Russian (B1), and maintain my French (B1) and German (B1) through ongoing study.
 
-As Senior Project Manager I'm responsible for the execution of my client projects from acceptance to launch of the IT project (website, ecommerce, software, digital transformation, CRM, digital marketing) and my digital reports following the internal guidelines and project methodologies (Waterfall, Hybrid and Agile). I'm in charge in delivering according to agreed project specifications, budget, timeline and stakeholder management.
-
-Over the years, working and supervising numerous projects developed in Italy and abroad (Spain, France, Switzerland, Russia), I have acquired skills that allow me to work easily with the main CMS and E-commerce environments: Wordpress, Drupal , Prestashop, Magento, Shopify, Salesforce, xCart, BigCommerce, CommerceTools and Hybris, ass well as manage, partially or completely, projects developed in PHP, Java, MERN (MongoDB, Express, React and Node) and React Native.
-
-Other expert skills: Jakarta EE, Docker, Amazon(AWS), Google(GCP), CI/CD pipelines, Atlassian software management, Linux, WSL, ELI5 documentation, Git, NextJS, TypeScript, VS Code.
-AI skills: Python, R, TensorFlow, Scikit-learn, Machine Learning, Deep Learning, Generative AI, Feature Engineering, Google Colab, AWS SageMaker, Google Vertex AI, Weka.
-
-Since 2021 I have been a member of the Project Management Institute (PMI), where I study and improve on new Project Management techniques & methods.
-
-I speak Italian (C2), Spanish (C2), English (B2), Russian (B1) and Chinese (A2). My favorite sports are soccer, boxing, ice hockey and chess.
+I believe that “theory without practice is empty, and practice without theory is blind.” If you’re looking for someone who can design, teach and implement AI-driven solutions, let’s connect!
